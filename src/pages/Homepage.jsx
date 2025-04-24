@@ -6,7 +6,7 @@ import Questions from '../components/Questions'
 import Statistics from '../components/Statistics'
 import Service from '../components/Service'
 import Cta from '../components/Cta'
-import Portfolio from '../components/Portfolio'
+// import Portfolio from '../components/Portfolio'g
 import Team from '../components/Team'
 import Pricing from '../components/Pricing'
 import Faq from '../components/Faq'
